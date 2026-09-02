@@ -1,6 +1,6 @@
 # ⚖️ LedgerLens AI — An Evidence-Based Tax-Line Reconciliation Agent
 
-> **Submission**: Razorpay AI Buildathon — Track 04 (AI Finance Controller)  
+> **Project:** LedgerLens AI — Evidence-Based Tax-Line Reconciliation Agent  
 > **Tagline**: *"Don't just find mismatches. Investigate them, verify the evidence, resolve safe cases, and escalate the rest."*
 
 > [!NOTE]
@@ -132,7 +132,6 @@ tax_reconciliation_agent/
 ### 1. Installation
 
 ```bash
-cd C:\Users\sarva\.gemini\antigravity\scratch\tax_reconciliation_agent
 pip install -r requirements.txt
 ```
 
