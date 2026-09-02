@@ -4,8 +4,6 @@ LedgerLens AI — Visual Agent Operations Center & Live Processing Console.
 
 Tagline:
 "Don't just find mismatches. Investigate them, verify the evidence, resolve safe cases, and escalate the rest."
-
-Submission: Razorpay AI Buildathon — Track 04 (AI Finance Controller)
 """
 
 import os
